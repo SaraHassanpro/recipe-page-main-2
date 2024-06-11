@@ -1,0 +1,163 @@
+
+.container-fluid {
+    background-color: hsl(30, 54%, 90%);
+}
+
+.main {
+    background-color: hsl(0, 0%, 100%);
+    margin: 15% auto;
+    border-radius: 20px;
+    padding: 25px;
+}
+@media only all and (max-width:770px){
+    .main{
+        margin: 0px auto;
+    }
+}
+
+.image-Paragraph img {
+    border-radius: 20px;
+}
+
+.image-Paragraph h2 {
+    color: hsl(24, 5%, 18%);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-top: 20px;
+    font-size: 36px;
+    padding-bottom: 20px;
+}
+
+.image-Paragraph p {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.3;
+    padding-bottom: 20px;
+}
+
+.preparation {
+    background-color: hsl(330, 100%, 98%);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.preparation ul {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 2.3 !important;
+
+    padding-top: 15px;
+    list-style: disc !important;
+    color: hsl(332, 51%, 32%);
+    padding-left: 12px;
+}
+
+.preparation ul li {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 2.3 !important;
+
+    padding-left: 20px;
+    margin-left: 30px;
+}
+
+.preparation b {
+    color: hsl(14, 45%, 36%);
+}
+
+.ingredient ul {
+    font-family: "Young Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.8 !important;
+    padding-top: 15px;
+    list-style: disc !important;
+    color: hsl(332, 51%, 32%);
+    padding-left: 12px;
+
+}
+
+.ingredient ul li {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 2 !important;
+    padding-left: 20px;
+    margin-left: 30px;
+    color: hsl(30, 10%, 34%);
+}
+
+.instruction {}
+
+.instruction ol {
+    font-family: "Young Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.8 !important;
+    padding-top: 15px;
+    color: hsl(332, 51%, 32%);
+    padding-left: 12px;
+
+}
+
+.instruction ol li {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 2 !important;
+    padding-left: 20px;
+    margin-left: 30px;
+    color: hsl(30, 10%, 34%);
+}
+
+.nutrition h2{
+    font-family: "Young Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.8 !important;
+    padding-top: 15px;
+    color: hsl(332, 51%, 32%);
+    padding-left: 12px; 
+}
+.nutrition p{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 2 !important;
+    color: hsl(30, 10%, 34%);
+}
+
+.table tr th{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+.table tr td
+{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 16px;
+    color: hsl(332, 51%, 32%);
+}
